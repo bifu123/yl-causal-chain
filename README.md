@@ -103,8 +103,15 @@
 
 ---
 
-## 百闻不如一见
+## 九、关于术语借喻
+https://blog.csdn.net/chenbifu_1/article/details/164142852?spm=1011.2415.3001.5331
+
+## 十、存疑解惑
+- Agnet: https://www.aicity.wang/api/v1/causal/click?serial_id=702&owner_id=222302526&actor_id=415135222&max_eyes=40
+- 人类：https://www.aicity.wang/3d?serial_id=702&owner_id=222302526&actor_id=415135222&max_eyes=40
+
+## 十一、百闻不如一见
 https://www.aicity.wang/3d?owner_id=222302526&actor_id=415135222
 
-## 缘
+## 十二、缘
 QQ群：222302526
