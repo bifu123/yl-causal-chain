@@ -1,10 +1,8 @@
-# yl-causal-chain
-
 # 元龙因果链
 
-> 元龙因果链（Yuanlong Causal Chain）是一套以**事件**为认知基本粒子、以**因果拓扑**为世界观、以**观测者对贞**为唯一闭合标准的数据与推理体系。它不把世界看成一条单线的时间轴，而看成一张**可合并、可分支、可回环**的多因多果链网。
+（yl-causal-chain）
 
-本文为体系简介。体系全维说明见 `元龙因果链_全维百科.md`。
+> 元龙因果链（Yuanlong Causal Chain）是一套以**事件**为认知基本粒子、以**因果拓扑**为世界观、以**观测者对贞**为唯一闭合标准的数据与推理体系。它不把世界看成一条单线的时间轴，而看成一张**可合并、可分支、可回环**的多因多果链网。
 
 ---
 
@@ -106,12 +104,18 @@
 ## 九、关于术语借喻
 https://blog.csdn.net/chenbifu_1/article/details/164142852?spm=1011.2415.3001.5331
 
+---
+
 ## 十、存疑解惑
 - Agnet: https://www.aicity.wang/api/v1/causal/click?serial_id=702&owner_id=222302526&actor_id=415135222&max_eyes=40
 - 人类：https://www.aicity.wang/3d?serial_id=702&owner_id=222302526&actor_id=415135222&max_eyes=40
 
+---
+
 ## 十一、百闻不如一见
 https://www.aicity.wang/3d?owner_id=222302526&actor_id=415135222
+
+---
 
 ## 十二、缘
 QQ群：222302526
