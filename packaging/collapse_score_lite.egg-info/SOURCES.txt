@@ -1,0 +1,8 @@
+README.md
+collapse_score_lite.py
+pyproject.toml
+collapse_score_lite.egg-info/PKG-INFO
+collapse_score_lite.egg-info/SOURCES.txt
+collapse_score_lite.egg-info/dependency_links.txt
+collapse_score_lite.egg-info/requires.txt
+collapse_score_lite.egg-info/top_level.txt

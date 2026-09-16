@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "collapse-score-lite"
+version = "0.1.2"
+description = "因果配平第四方程-果标签（能量坍塌）文本检测与最佳遴选模块（Outcome Label Evaluator）"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "jieba>=0.42.1",
+]
+authors = [
+    { name = "元龙因果链" },
+]
+keywords = ["causal", "outcome-label", "text-evaluation", "jieba", "nlp", "chinese"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Operating System :: OS Independent",
+    "Intended Audience :: Developers",
+]
+
+[tool.setuptools]
+py-modules = ["collapse_score_lite"]
